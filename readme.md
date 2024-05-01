@@ -11,4 +11,6 @@ git clone https://github.com/balajiCubie/Avadhuta-Tech-URL-shorten.git
 npm install
 npm run dev
 ```
+
+### view on  http://localhost:3000/
     
