@@ -4,7 +4,11 @@
 ### git clone 
 ```
 git clone https://github.com/balajiCubie/Avadhuta-Tech-URL-shorten.git
+cd AvadhutaTechURLShorten
 ```
+<!-- cd AvadhutaTechURLShorten -->
+
+
 
 ### npm install and start
 ```
